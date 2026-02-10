@@ -41,7 +41,8 @@ Email Me 👉 ✉️ **adityarsingh.work@gmail.com** For Collaboration/Project o
 
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ars0a&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ars0a&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800)
+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ars0a&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ars0a&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
