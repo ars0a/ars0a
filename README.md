@@ -41,7 +41,6 @@ I build cloud setups, break them on purpose, then learn to fix them better.
 ---
 
 ## 💻 Tech Stack
-*(kept as your original badges — clean and good)*
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
